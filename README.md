@@ -1,2 +1,3 @@
-# Projeto-1---PG
-Projeto 2-1 de Processamento Grafico
+# Bezier Curves
+
+Project made as an evaluation form of the graphic processing chair on Cin-UFPE
